@@ -16,9 +16,11 @@ SeeFood app uses machine learning with CoreML to identify whether the photo take
 
 ## What I learned building this app
 * Maching Learning
-* Supervised , Unsupervised  and Reinforcement Learning.
+* Supervised , Unsupervised  and Reinforcement Learning
+* Pre-trained Machine Learning Model
 * CoreML
-* How to use detect the photo using MLModel.
+* How to use detect the photo using MLModel
+
 
 
 
