@@ -3,10 +3,12 @@
 
 #  SeeFood App
  
+ <img src= Documentation/CoreML.png  height="375" width="175">
 
 ## Description
 
 SeeFood app uses machine learning with CoreML to identify whether the photo taken there is a hotdog or not. For this app, I used pre-trained machine learning model: Vision V3 (Inception V3). 
+
 
 ## Screenshot
 
