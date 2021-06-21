@@ -3,7 +3,7 @@
 
 #  SeeFood App
  
- <img src= Documentation/CoreML.png  height="375" width="175">
+ <img src= Documentation/CoreML.png  height="256" width="256">
 
 ## Description
 
